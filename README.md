@@ -1,5 +1,7 @@
 # 👋 Olá! Bem vindo ao meu perfil do GitHub.
 
+<div class="tenor-gif-embed" data-postid="17606968" data-share-method="host" data-aspect-ratio="1.50235" data-width="100%"><a href="https://tenor.com/view/pc-computer-user-interface-gif-17606968">Pc Computer GIF</a>from <a href="https://tenor.com/search/pc-gifs">Pc GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ## ⛄ Me chamo Leonardo, mas pode me chamar de Leo!
 
 <p align="center">
