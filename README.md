@@ -2,7 +2,7 @@
 
 ## ⛄ Me chamo Leonardo, mas pode me chamar de Leo!
 
-<p align="center">
+
 - 📌 Tenho 21 anos e moro em São Paulo.<br>
 - 👷 Sou formado em Análise e Desenvolvimento de sistemas e estou concluindo o bacharelado.<br>
 - 🔭 Atualmente estou trabalhando como Analista InfraDevOps/Cloud na Brink's.<br>
