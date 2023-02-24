@@ -1,6 +1,6 @@
 # 👋 Olá! Bem vindo ao meu perfil do GitHub.
 ## Me chamo Leonardo, mas pode me chamar de Leo!
-
+<p align="center">
 - 🔭 Atualmente estou trabalhando como Analista InfraDevOps/Cloud
 
 
