@@ -16,7 +16,7 @@
 </p>
 
 
-## 💻 Ferramentas e Tecnologias
+## 💻 Ferramentas e Tecnologias:
 
 - Tecnologias que mais utilizo e trabalho.
 
@@ -25,7 +25,7 @@
 
 
   
-## 📊 Métricas das tecnologias
+## 📊 Métricas das tecnologias:
 <p align="center">
 <a href="https://github.com/Leeosapucahy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Leeosapucahy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -34,7 +34,7 @@
 </p>
 
   
-##  🤝🏻 Entre em contato comigo
+##  🤝🏻 Entre em contato comigo:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/leonardo-sapucahy-4827291b0/"><img src="https://img.shields.io/badge/-Leonardo%20Sapucahy-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
