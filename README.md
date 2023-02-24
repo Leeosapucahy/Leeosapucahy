@@ -3,8 +3,16 @@
 ## ⛄ Me chamo Leonardo, mas pode me chamar de Leo!
 
 <p align="center">
-- 🔭 Atualmente estou trabalhando como Analista InfraDevOps/Cloud
-
+- 📌 Tenho 21 anos e moro em São Paulo.<br>
+- 👷 Sou formado em Análise e Desenvolvimento de sistemas e estou concluindo o bacharelado.<br>
+- 🔭 Atualmente estou trabalhando como Analista InfraDevOps/Cloud na Brink's.<br>
+- ☁️ Sempre quis trabalhar como dev, mas depois que conheci o mundo cloud, me apaixonei.<br>
+- 🌱 Em busca da minha primeira certificação AWS.<br>
+- 💈 Meus hobbies preferidos são: Futebol, música, jogos e minha cachorrinha.
+  
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
 
 
 ## 💻 Ferramentas e Tecnologias
@@ -15,12 +23,12 @@
 
   
 ## 📊 Métricas de tecnologias
-<div>
 <p align="center">
 <a href="https://github.com/Leeosapucahy">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeosapucahy&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leeosapucahy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Leeosapucahy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Leeosapucahy&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
   
 ##  🤝🏻 Contatos
