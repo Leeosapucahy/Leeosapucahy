@@ -1,4 +1,4 @@
-# 👋 Olá! Bem vindo ao meu perfil do GitHub.
+# <h1 align="center"> 👋 Olá! Bem vindo ao meu perfil do GitHub. </h1>
 
 ## ⛄ Me chamo Leonardo, mas pode me chamar de Leo!
 
