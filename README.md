@@ -1,5 +1,5 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Leonardo and my nickname is Leo!
+# Leonardo Sapucahy
+## Hello, Devs!
 
 - 🔭 Atualmente estou trabalhando como Analista Analista InfraDevOps/Cloud
 
