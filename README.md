@@ -13,7 +13,7 @@
 
 
   
-## Métricas de tecnologias
+## 📊 Métricas de tecnologias
 <div>
 <p align="center">
 <a href="https://github.com/Leeosapucahy">
