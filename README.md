@@ -22,7 +22,7 @@
 
 
   
-## 📊 Métricas de tecnologias
+## 📊 Métricas das tecnologias
 <p align="center">
 <a href="https://github.com/Leeosapucahy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Leeosapucahy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
