@@ -9,7 +9,7 @@
 - ☁️ Sempre quis trabalhar como dev, mas depois que conheci o mundo cloud, me apaixonei.<br>
 - 🌱 Em busca da minha primeira certificação AWS.<br>
 - 💈 Meus hobbies preferidos são: Futebol, música, jogos e minha cachorrinha.<br>
-- 📎 Mais abaixo (ou na aba repositories, se preferir) você encontra meus repositórios, todos com arquivo readme, para guiá-lo pelos projetos.
+- 📎 Mais abaixo você encontra meus repositórios (ou na aba repositories, se preferir), todos com arquivo readme, para guiá-lo pelos projetos.
   
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
