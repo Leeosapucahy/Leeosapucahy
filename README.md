@@ -7,14 +7,14 @@
 - 👷 Sou formado em Análise e Desenvolvimento de sistemas e estou concluindo o bacharelado.<br>
 - 🔭 Atualmente estou trabalhando como Analista InfraDevOps/Cloud na Brink's.<br>
 - ☁️ Sempre quis trabalhar como dev, mas depois que conheci o mundo cloud, me apaixonei.<br>
-- 🌱 Em busca da minha primeira certificação AWS.<br>
+- 🌱 Em busca da minha segunda certificação AWS.<br>
 - 💈 Meus hobbies preferidos são: Futebol, música, jogos e minha cachorrinha.<br>
 - 📎 Mais abaixo você encontra meus repositórios (ou na aba repositories, se preferir), todos com arquivo readme, para guiá-lo por cada projeto.
   
-<p align="center">
+<!-- <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
-
+ -->
 
 ## 💻 Ferramentas e Tecnologias:
 
