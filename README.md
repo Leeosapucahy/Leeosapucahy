@@ -5,7 +5,7 @@
 
 - 📌 Tenho 21 anos e moro em São Paulo.<br>
 - 👷 Sou formado em Análise e Desenvolvimento de sistemas e estou concluindo o bacharelado.<br>
-- 🔭 Atualmente estou em busca de uma oportunidade.<br>
+- 🔭 Atualmente estou trabalhando na F1rst Technology/Santander.<br>
 - ☁️ Sempre quis trabalhar como dev, mas depois que conheci o mundo cloud, me apaixonei.<br>
 - 🌱 AWS Cloud Essentials e AWS Cloud Practitioner.<br>
 - 💈 Meus hobbies preferidos são: Futebol, música, jogos e minha cachorrinha.<br>
