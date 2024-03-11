@@ -3,11 +3,11 @@
 ## ⛄ Me chamo Leonardo, mas pode me chamar de Leo!
 
 
-- 📌 Tenho 21 anos e moro em São Paulo.<br>
-- 👷 Sou formado em Análise e Desenvolvimento de sistemas e estou concluindo o bacharelado.<br>
+- 📌 Tenho 22 anos e moro em São Paulo.<br>
+- 👷 Sou formado em Análise e Desenvolvimento de sistemas e trabalho com cloud e devops.<br>
 - 🔭 Atualmente estou trabalhando na Keeggo Technology.<br>
 - ☁️ Sempre quis trabalhar como dev, mas depois que conheci o mundo cloud, me apaixonei.<br>
-- 🌱 AWS Cloud Essentials e AWS Cloud Practitioner.<br>
+- 🌱 3x AWS Certified e 1x OCI Certified.<br>
 - 💈 Meus hobbies preferidos são: Futebol, música, jogos e minha cachorrinha.<br>
 - 📎 Logo abaixo você encontra meus repositórios (ou na aba repositories, se preferir), todos com arquivo readme, para guiá-lo por cada projeto.
   
